@@ -88,3 +88,14 @@ describe('Testing Codedamn website ', () => {
 
 //Upload image
 //cy.get('#photo-upload').attachFile('images/pic1.jpg')
+
+//submit a form
+// cy.get('form').within($form) => {
+//     cy.get('input[type="email"]').type('abc@gmail.com')
+//     cy.get('input[type="password"]').type('abcde')
+//     cy.root().submit()
+// }
+
+//cy.get("#primary-item").find("li").first()
+
+//cy.get('a:contains("Login")').click()

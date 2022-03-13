@@ -15,6 +15,7 @@ describe('Login functionality ', () => {
         cy.contains('Join').click()
 
         cy.contains('The credentials was wrong!').should('not.exist')
+        //cy.screenshot()
 
 
         cy.get('#email').clear().type('admin@gmail.com')

@@ -1,0 +1,18 @@
+1 --> Navigation bar(DONE)
+2 --> Home page(DONE)
+3 --> Explore page(DONE)
+
+5 --> Top authors page(DONE)
+6 --> Contact us page(DONE)
+7 --> Settings page(DONE)
+8 --> Help page
+9 --> Sign in page(DONE)
+10 --> Registration page(DONE)
+11 --> Forget password(DONE)
+12 --> Product(DONE)
+13 --> Cart(DONE)
+14 --> Checkout(DONE)
+15 --> Search page(Done)
+
+4 --> Popular products page [visual testing]
+
